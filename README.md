@@ -7,6 +7,7 @@ We were using Google Drive back then, so I do not know if this is the latest ver
 
 ## Team
 
-Felipe Malcher
-Luiz Tadeu
-Lucas William
+[Felipe Malcher](https://github.com/malchrDev)
+[Luiz Tadeu](https://github.com/tadeudiniz)
+[Lucas William](https://github.com/lucaswilliameufrasio)
+
